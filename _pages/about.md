@@ -20,7 +20,7 @@ I have served as a reviewer for the IEEE Transactions on Sustainable Energy, App
 ## **Research Interests**
 - Integrated energy system optimization and dispatch  
 - Power system operations with high penetration of renewable and distributed generation  
-- stochastic programming and distributionally robust optimization 
+- Stochastic programming and distributionally robust optimization 
 - Combined cooling, heating, and power (CCHP) systems  
 
 ---
