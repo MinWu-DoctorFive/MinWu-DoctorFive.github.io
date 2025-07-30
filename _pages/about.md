@@ -15,8 +15,6 @@ My research interests focus on the uncertainty of the integrated energy system o
 
 I have served as a reviewer for the IEEE Transactions on Sustainable Energy, Applied Energy, Renewable Energy, International Journal of Electrical Power & Energy Systems, and other IEEE conferences.
 
-
-
 ---
 
 ## **Research Interests**
@@ -24,19 +22,6 @@ I have served as a reviewer for the IEEE Transactions on Sustainable Energy, App
 - Power system operations with high penetration of renewable and distributed generation  
 - stochastic programming and distributionally robust optimization 
 - Combined cooling, heating, and power (CCHP) systems  
-
----
-
-## **Education**
-### **B.S. (2014–2018)**
-- **Major:** Electrical Engineering and Automation  
-- **Institution:** School of Information and Electrical Engineering, Northeast Normal University (211 Project)  
-
-### **Ph.D. (2018–2023)**
-- **Program:** Successive Master-doctor Program  
-- **Major:** Electrical Engineering  
-- **Institution:** College of Electrical and Information Engineering, Hunan University (211/985 Project)  
-- **Supervisor:** Dr. Prof. Jiazhu Xu  
 
 ---
 
