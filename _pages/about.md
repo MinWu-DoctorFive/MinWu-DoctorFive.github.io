@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-# **CURRICULUM VITAE**
+# **Biography**
+
+I am a postdoctoral fellow at The Hong Kong Polytechnic University (PolyU) supported by the PolyU Postdoc Matching Fund Scheme, and work with [Prof. Kai Pan](https://sites.google.com/view/kaipanuf/home?authuser=0). I Ph.D. degree in electrical engineering from the Hunan University , Changsha, China, in 2023, under the supervision of [Prof. Jiazhu Xu](https://scholargps.com/scholars/77776794750243/jiazhu-xu). I obtained my BEng in electrical engineering and automation from Northeast Normal University, Changchun, China, in 2018.
+
 
 ## **Personal Information**
 - **Name:** Min Wu  
