@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Min Wu/Personal Homepage"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Min Wu"
 description              : &description "Postdoctoral fellow at PolyU"
@@ -269,23 +269,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Awards
   - scope:
       path: ""
-      type: portfolio
+      type: Awards
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
