@@ -18,4 +18,4 @@ Work experience
 ======
 * Postdoctoral Fellow, Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University, Hong Kong, China, Mar. 2024 - Present.
 
-[Min Wu's CV] Last update: Mar 2024
+[Min Wu's CV](../assets/CV_Min Wu.pdf) Last update: Mar 2024
